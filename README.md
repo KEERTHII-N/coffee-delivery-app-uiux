@@ -54,6 +54,7 @@ The goal was to design a clean and intuitive coffee delivery experience that red
 🔗 Preview Project
 Figma Prototype: https://figma.com/design/AyOWDfK5crU4l5v7HHEPUY/Coffee
 
+
 💡 Key Learning
 
 This project helped me improve my understanding of:
