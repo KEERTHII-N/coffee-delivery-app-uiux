@@ -71,9 +71,9 @@ This project helped me improve my understanding of:
 👩‍💻 Designer
 
 Kerthii N
+
 UI/UX Designer
 
 ---
-
 ⭐ If you find this project interesting, feel free to explore the design and prototype.
 
