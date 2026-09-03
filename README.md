@@ -2,6 +2,7 @@
 A modern mobile coffee delivery app designed to make discovering, customizing, and ordering coffee simple and enjoyable.
 
 📌 About the Project 
+
 Coffee is a UI/UX design project focused on creating a smooth end-to-end coffee ordering experience.
 The app allows users to browse different coffee categories, explore products, select their preferred options, manage their cart and wishlist, discover coupons, and track their orders.
 The project was designed and prototyped entirely in Figma.
