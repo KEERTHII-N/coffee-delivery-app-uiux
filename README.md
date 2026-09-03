@@ -1,4 +1,2 @@
 # coffee-delivery-app-uiux
-A mobile coffee delivery app redesigned in Figma as an improvement over my original UI/UX project.
-
-This project focuses on creating a more refined visual experience, clearer user flows, better design consistency, and interactive prototyping.
+A modern mobile coffee delivery app UI/UX project focused on coffee discovery, customization, coupons, ordering, and a seamless user experience.
