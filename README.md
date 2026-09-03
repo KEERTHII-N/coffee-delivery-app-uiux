@@ -1,8 +1,7 @@
 ☕ Coffee — Coffee Delivery App
 A modern mobile coffee delivery app designed to make discovering, customizing, and ordering coffee simple and enjoyable.
 
-📌 About the Project
-
+📌 About the Project 
 Coffee is a UI/UX design project focused on creating a smooth end-to-end coffee ordering experience.
 The app allows users to browse different coffee categories, explore products, select their preferred options, manage their cart and wishlist, discover coupons, and track their orders.
 The project was designed and prototyped entirely in Figma.
@@ -24,8 +23,8 @@ Developed the visual language using a coffee-inspired color palette, typography,
 5. Prototyping
 Created an interactive prototype in Figma to test navigation and key interactions.
 
-🎯 Project Goal:
 
+🎯 Project Goal:
 The goal was to design a clean and intuitive coffee delivery experience that reduces friction while ordering and makes discovering coffee products more engaging.
 
 ✨ Key Features:
@@ -48,9 +47,8 @@ The goal was to design a clean and intuitive coffee delivery experience that red
 * Figma Variables — Dynamic interactions and pricing
 * Figma Components — Reusable UI elements
 
-🔗 Prototype
-Figma Prototype:
-Add your Figma prototype link here.
+🔗 Preview Project
+Figma Prototype: https://figma.com/design/AyOWDfK5crU4l5v7HHEPUY/Coffee
 
 💡 Key Learning
 
