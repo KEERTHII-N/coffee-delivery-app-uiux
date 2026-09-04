@@ -351,8 +351,8 @@ One of the most valuable skills I developed was learning to review my own previo
 | ------------------------ | ------------------------------------ |
 | 1 month                  | 3 months                             |
 | Beginner UI/UX knowledge | Better understanding of UI/UX        |
-| Direct focus on final UI | Sketch → Wireframe → UI              |
-| Limited UX thinking      | More user-focused decisions          |
+| Direct focus on final UX | Sketch → Wireframe → UI              |
+| Limited UI thinking      | More user-focused decisions          |
 | Basic interactions       | Variables & conditional interactions |
 | Less consistency         | More structured components           |
 | Limited visual hierarchy | Stronger hierarchy                   |
