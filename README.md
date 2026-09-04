@@ -3,9 +3,13 @@
 A complete redesign focused on creating a clearer, more engaging, and visually consistent coffee-ordering experience.
 
 Duration: 3 Months
+
 Role: UI/UX Designer
+
 Platform: Mobile
+
 Tool: Figma
+
 Resources: YouTube, ChatGPT, Pinterest
 
 ---
