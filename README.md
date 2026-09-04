@@ -102,8 +102,9 @@ How can the prototype feel more realistic without adding unnecessary complexity?
 I structured the home experience around:
 * Search
 * Categories
-* Recommendations
 * Offers
+* Recommendations
+
 
 This allows users to quickly discover products without navigating through unnecessary screens.
 
