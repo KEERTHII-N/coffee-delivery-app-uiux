@@ -392,13 +392,11 @@ View the Interactive Prototype →
 
 https://figma.com/design/AyOWDfK5crU4l5v7HHEPUY/Coffee
 
-“I learned from my first project, changed my design process, and became more intentional about UI/UX.”
 --
 
 Kerthii N
 
 --
 
-“I learned from my first project, changed my design process, and became more intentional about UI/UX.”
 
 
