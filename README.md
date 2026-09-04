@@ -360,27 +360,7 @@ One of the most valuable skills I developed was learning to review my own previo
 
 ---
 
-11. Resources & Learning
-
-This was a self-learning project.
-
-YouTube
-
-Used for learning UI/UX fundamentals, Figma features, prototyping techniques, and design approaches.
-
-ChatGPT
-
-Used to understand coffee-related products, content, design concepts, alignment, UI/UX questions, and explore ideas during the process.
-
-Pinterest
-
-Used for visual references, inspiration, and exploring different design directions.
-
-These resources supported my learning, but the final layouts and design decisions were developed through experimentation, iteration, and reviewing my own work.
-
----
-
-12. Final Outcome
+11. Final Outcome
 
 The redesign helped me move from simply creating screens to thinking more intentionally about the experience behind them.
 
@@ -394,7 +374,7 @@ rather than focusing on only one of them.
 
 ---
 
-13. Key Takeaway
+12. Key Takeaway
 
 My first coffee app taught me **how to start designing**.
 
@@ -408,17 +388,13 @@ And this is only the beginning of my UI/UX journey. ☕🤎
 
 🔗 Prototype
 
-**View the Interactive Prototype →**
+View the Interactive Prototype →
 
-[Add Figma Prototype Link]
+https://figma.com/design/AyOWDfK5crU4l5v7HHEPUY/Coffee
 
-🛠️ Tools
+“I learned from my first project, changed my design process, and became more intentional about UI/UX.”
+--
 
-Figma : • Components • Variants • Variables • Prototyping
-
-👩‍💻 Role
-
-UI/UX Designer
 Kerthii N
 
 --
