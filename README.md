@@ -386,9 +386,9 @@ And this is only the beginning of my UI/UX journey. ☕🤎
 
 ---
 
-🔗 Prototype
+🔗 Coffee Delivery app
 
-View the Interactive Prototype →
+View the Project →
 
 https://figma.com/design/AyOWDfK5crU4l5v7HHEPUY/Coffee
 
