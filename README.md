@@ -248,7 +248,7 @@ Users can select common issues or ask questions through the support interface.
 
 08. Challenges I Faced
 
- 1. Making Figma Variables Work
+ a. Making Figma Variables Work
 
 One of the biggest challenges was understanding how variables could be used to create dynamic interactions.
 
@@ -266,7 +266,7 @@ This helped me understand that Figma can be used to prototype much more than sim
 
 ---
 
-2. Creating a Dynamic Wishlist
+b. Creating a Dynamic Wishlist
 
 I wanted the wishlist to behave like a real application.
 
@@ -280,7 +280,7 @@ This required careful handling of variables and component states.
 
 ---
 
-3. Balancing UI and UX
+c. Balancing UI and UX
 
 One of my biggest challenges was trying to make every part of the application feel completely realistic.
 
@@ -296,7 +296,7 @@ Because of this, I prioritized the most important user journeys and focused more
 
 ---
 
- 4. Designing Many Screens Consistently
+ d. Designing Many Screens Consistently
 
 The project eventually grew into many different sections — products, cart, wishlist, offers, checkout, tracking, profile, support, and more.
 
