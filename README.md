@@ -248,7 +248,7 @@ Users can select common issues or ask questions through the support interface.
 
 08. Challenges I Faced
 
-1. Making Figma Variables Work
+ 1. Making Figma Variables Work
 
 One of the biggest challenges was understanding how variables could be used to create dynamic interactions.
 
